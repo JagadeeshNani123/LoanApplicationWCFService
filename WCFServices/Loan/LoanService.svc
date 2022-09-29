@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="LoanApplicationWCFService.WCFServices.Loan.LoanService" CodeBehind="LoanService.svc.cs" %>
